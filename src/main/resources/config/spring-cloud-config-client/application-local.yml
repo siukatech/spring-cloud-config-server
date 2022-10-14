@@ -1,0 +1,11 @@
+
+app:
+  local:
+    prop:
+      value: Specific Application Name 5 Local Profile
+  server:
+    prop:
+      value: Specific Application Name 5 Local Profile
+  common:
+    prop:
+      value: Specific Application Name 5 Local Profile
