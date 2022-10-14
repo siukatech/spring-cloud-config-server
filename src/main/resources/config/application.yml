@@ -1,0 +1,17 @@
+
+spring:
+  rabbitmq:
+    addresses: localhost:5672
+    username: guest
+    password: guest
+
+app:
+  local:
+    prop:
+      value: Server Application Name
+  server:
+    prop:
+      value: Server Application Name
+  common:
+    prop:
+      value: Server Application Name
