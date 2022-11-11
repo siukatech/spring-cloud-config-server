@@ -9,3 +9,8 @@ app:
   common:
     prop:
       value: Specific Application Name 5
+
+logging:
+  level:
+    root: DEBUG
+
